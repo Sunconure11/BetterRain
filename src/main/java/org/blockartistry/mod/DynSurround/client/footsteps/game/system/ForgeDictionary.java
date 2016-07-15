@@ -91,7 +91,7 @@ public final class ForgeDictionary {
 
 	private static final String[] woodChests = { "chestWood", "chestTrapped", "genericChest" };
 
-	private static final String[] rugBlocks = { "wool", "blockClothRock", "materialBedding" "genericWool"};
+	private static final String[] rugBlocks = { "wool", "blockClothRock", "materialBedding", "genericWool"};
 
 	private static final String[] fenceBlocks = { "fenceWood", "fenceGateWood", "genericFence" };
 
